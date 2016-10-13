@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NetworkSettingsModelStoreContainer" CdmEntityContainer="NetworkSettingsEntities">
+    <EntitySetMapping Name="BannedProgramms">
+      <EntityTypeMapping TypeName="NetworkSettingsModel.BannedProgramms">
+        <MappingFragment StoreEntitySet="BannedProgramms">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Day_id" ColumnName="Day_id" />
+          <ScalarProperty Name="ProgName" ColumnName="ProgName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Configuration">
+      <EntityTypeMapping TypeName="NetworkSettingsModel.Configuration">
+        <MappingFragment StoreEntitySet="Configuration">
+          <ScalarProperty Name="Details" ColumnName="Details" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="IPAdress" ColumnName="IPAdress" />
+          <ScalarProperty Name="port" ColumnName="port" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DaysOfWeek">
+      <EntityTypeMapping TypeName="NetworkSettingsModel.DaysOfWeek">
+        <MappingFragment StoreEntitySet="DaysOfWeek">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Day" ColumnName="Day" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="NetworkSettingsModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Help" ColumnName="Help" />
+          <ScalarProperty Name="E_Mail" ColumnName="E-Mail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

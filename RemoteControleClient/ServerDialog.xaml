@@ -1,0 +1,28 @@
+﻿<Window x:Class="RemoteControleClient.ServerDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         Title="ServerDialog" Height="313.452" Width="580.335"
+        x:Name="Win1" ResizeMode="NoResize" WindowStyle="None">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+
+                <ResourceDictionary Source="Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid Background="#C3267FEA">
+        <TextBox x:Name="tB1" Style="{DynamicResource GlassTextBoxOne}" HorizontalAlignment="Left" Height="31" Margin="243,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="303" FontSize="16"/>
+        <TextBox x:Name="tB2" Style="{DynamicResource GlassTextBoxTwo}" HorizontalAlignment="Left" Height="34" Margin="243,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="303" FontSize="16"/>
+        <TextBox x:Name="tB3" Style="{DynamicResource GlassTextBoxThree}" HorizontalAlignment="Left" Height="35" Margin="243,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="303" FontSize="16"/>
+        <TextBox x:Name="tB4" Style="{DynamicResource GlassTextBoxFour}" HorizontalAlignment="Left" Height="38" Margin="243,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="303" FontSize="16"/>
+        <Button Content="OK" Style="{DynamicResource BbButton}" HorizontalAlignment="Left" Margin="243,231,0,0" VerticalAlignment="Top" Width="180" Click="Button_Click"/>
+        <Label Content="Computer name:" HorizontalAlignment="Left" Margin="4,52,0,0" VerticalAlignment="Top" Width="220" Foreground="#FF000001" FontFamily="Showcard Gothic" FontSize="24"/>
+        <Label Content="IPAdress:" HorizontalAlignment="Left" Margin="4,91,0,0" VerticalAlignment="Top" Width="127" FontFamily="Showcard Gothic" FontSize="24"/>
+        <Label Content="Port:" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" Width="81" FontFamily="Showcard Gothic" FontSize="24"/>
+        <Label Content="Details:" HorizontalAlignment="Left" Margin="4,167,0,0" VerticalAlignment="Top" Width="109" FontFamily="Showcard Gothic" FontSize="24"/>
+
+    </Grid>
+</Window>

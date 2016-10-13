@@ -1,0 +1,220 @@
+D:\RemC\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+D:\RemC\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe
+D:\RemC\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.pdb
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.baml
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.g.cs
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\App.g.cs
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.cache
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.g.resources
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.Properties.Resources.resources
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csproj.GenerateResource.Cache
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\Styles.baml
+E:\RemC\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+E:\RemC\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe
+E:\RemC\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.pdb
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.baml
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\Styles.baml
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.g.cs
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\App.g.cs
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.cache
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.g.resources
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.Properties.Resources.resources
+E:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csproj.GenerateResource.Cache
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csprojResolveAssemblyReference.cache
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.baml
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\Styles.baml
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.g.cs
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\App.g.cs
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.cache
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.g.resources
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.Properties.Resources.resources
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csproj.GenerateResource.Cache
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+H:\RemC\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+H:\RemC\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe
+H:\RemC\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.pdb
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.baml
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.g.cs
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.baml
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.baml
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.baml
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.g.cs
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.g.cs
+H:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.g.cs
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csprojResolveAssemblyReference.cache
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\Authorization.baml
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.baml
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.baml
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.baml
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.baml
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\Authorization.g.cs
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.g.cs
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.g.cs
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.g.cs
+D:\RemC\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.pdb
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\Authorization.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\Styles.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\Authorization.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\App.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_Content.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.cache
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.g.resources
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.Properties.Resources.resources
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\ProgrammBlockingSettings.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.lref
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\ProgrammBlockingSettings.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\AddProgToDBandLV.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleClient\obj\Debug\AddProgToDBandLV.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+E:\RemC\r\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe
+E:\RemC\r\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.pdb
+E:\RemC\r\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.dll
+E:\RemC\r\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.SqlServer.dll
+E:\RemC\r\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.xml
+E:\RemC\r\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.SqlServer.xml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csprojResolveAssemblyReference.cache
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\Authorization.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\Styles.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\AddProgToDBandLV.g.cs
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\Authorization.g.cs
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.g.cs
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.g.cs
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\ProgrammBlockingSettings.g.cs
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.g.cs
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.g.cs
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.g.cs
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\App.g.cs
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.cache
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.lref
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\AddProgToDBandLV.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\ProgrammBlockingSettings.baml
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.g.resources
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.Properties.Resources.resources
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csproj.GenerateResource.Cache
+E:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+F:\RemC\r\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+F:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+F:\RemC\r\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+f:\Шаг\Командный проэкт\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+f:\Шаг\Командный проэкт\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+f:\Шаг\Командный проэкт\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csprojResolveAssemblyReference.cache
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\Authorization.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\Styles.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\AddProgToDBandLV.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\Authorization.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\ProgrammBlockingSettings.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\App.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.cache
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.lref
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.pdb
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.dll
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.xml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\AddProgToDBandLV.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\ProgrammBlockingSettings.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.g.resources
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.Properties.Resources.resources
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csproj.GenerateResource.Cache
+F:\RemC\r2\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+E:\RemC\r2\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe.config
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.exe
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.pdb
+E:\RemC\r2\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.exe
+E:\RemC\r2\RemoteControle\RemoteControleClient\bin\Debug\RemoteControleClient.pdb
+E:\RemC\r2\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.dll
+E:\RemC\r2\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.SqlServer.dll
+E:\RemC\r2\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.xml
+E:\RemC\r2\RemoteControle\RemoteControleClient\bin\Debug\EntityFramework.SqlServer.xml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csprojResolveAssemblyReference.cache
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\Authorization.baml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.baml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.baml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.baml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.baml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.baml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\Styles.baml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\AddProgToDBandLV.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\Authorization.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ProgrammBlockingSettings.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\App.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.cache
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.lref
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\AddProgToDBandLV.baml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ProgrammBlockingSettings.baml
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.g.resources
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.Properties.Resources.resources
+E:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csproj.GenerateResource.Cache
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient.csprojResolveAssemblyReference.cache
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\Authorization.baml
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.baml
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.baml
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.baml
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.baml
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.baml
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\Styles.baml
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\AddProgToDBandLV.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\Authorization.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\MainWindow.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ProcListWindow.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ProgrammBlockingSettings.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ScreenShotWnd.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\sendMesWnd.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\ServerDialog.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\App.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.cache
+F:\RemC\r2\RemoteControle\RemoteControleClient\obj\Debug\RemoteControleClient_MarkupCompile.lref

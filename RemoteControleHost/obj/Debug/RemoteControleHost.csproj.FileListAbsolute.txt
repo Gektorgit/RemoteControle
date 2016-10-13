@@ -1,0 +1,148 @@
+D:\RemC\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.baml
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.baml
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\Styles.baml
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.g.cs
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.g.cs
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\App.g.cs
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost_MarkupCompile.cache
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.g.resources
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.Properties.Resources.resources
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csproj.GenerateResource.Cache
+D:\RemC\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe
+D:\RemC\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.pdb
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csprojResolveAssemblyReference.cache
+E:\RemC\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+E:\RemC\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe
+E:\RemC\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.pdb
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csprojResolveAssemblyReference.cache
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.baml
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.baml
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\Styles.baml
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.g.cs
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.g.cs
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\App.g.cs
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost_MarkupCompile.cache
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.g.resources
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.Properties.Resources.resources
+E:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csproj.GenerateResource.Cache
+H:\RemC\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.baml
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.baml
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\Styles.baml
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.g.cs
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.g.cs
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\App.g.cs
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost_MarkupCompile.cache
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.g.resources
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.Properties.Resources.resources
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csproj.GenerateResource.Cache
+H:\RemC\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe
+H:\RemC\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.pdb
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csprojResolveAssemblyReference.cache
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\Message_window.baml
+H:\RemC\RemoteControle\RemoteControleHost\obj\Debug\Message_window.g.cs
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\Message_window.baml
+D:\RemC\RemoteControle\RemoteControleHost\obj\Debug\Message_window.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.pdb
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\Message_window.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\Styles.baml
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\Message_window.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\App.g.cs
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost_MarkupCompile.cache
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.g.resources
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.Properties.Resources.resources
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+C:\Users\student\Desktop\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+E:\RemC\r\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+E:\RemC\r\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe
+E:\RemC\r\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.pdb
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.baml
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.baml
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\Message_window.baml
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\Styles.baml
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.g.cs
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.g.cs
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\Message_window.g.cs
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\App.g.cs
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost_MarkupCompile.cache
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.g.resources
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.Properties.Resources.resources
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csproj.GenerateResource.Cache
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+E:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csprojResolveAssemblyReference.cache
+F:\RemC\r\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+F:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+F:\RemC\r\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+f:\Шаг\Командный проэкт\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+f:\Шаг\Командный проэкт\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+f:\Шаг\Командный проэкт\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.pdb
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csprojResolveAssemblyReference.cache
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\Message_window.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\Styles.baml
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\Message_window.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\App.g.cs
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost_MarkupCompile.cache
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.g.resources
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.Properties.Resources.resources
+c:\Users\student\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csproj.GenerateResource.Cache
+F:\RemC\r2\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+F:\RemC\r2\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe
+F:\RemC\r2\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.pdb
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csprojResolveAssemblyReference.cache
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.baml
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.baml
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\Message_window.baml
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\Styles.baml
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\Message_window.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\App.g.cs
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost_MarkupCompile.cache
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.g.resources
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.Properties.Resources.resources
+F:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csproj.GenerateResource.Cache
+E:\RemC\r2\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe.config
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.exe
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.pdb
+E:\RemC\r2\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.exe
+E:\RemC\r2\RemoteControle\RemoteControleHost\bin\Debug\RemoteControleHost.pdb
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csprojResolveAssemblyReference.cache
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.baml
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.baml
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\Message_window.baml
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\Styles.baml
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\ImgWind.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\MainWindow.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\Message_window.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\App.g.cs
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost_MarkupCompile.cache
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.g.resources
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.Properties.Resources.resources
+E:\RemC\r2\RemoteControle\RemoteControleHost\obj\Debug\RemoteControleHost.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\student.STEP\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteLibrary\bin\Debug\RemoteLibrary.dll.config
+C:\Users\student.STEP\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteLibrary\bin\Debug\RemoteLibrary.dll
+C:\Users\student.STEP\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteLibrary\bin\Debug\RemoteLibrary.pdb
+C:\Users\student.STEP\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteLibrary\obj\Debug\RemoteLibrary.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteLibrary\obj\Debug\RemoteLibrary.dll
+C:\Users\student.STEP\Documents\Visual Studio 2013\Projects\RemoteControle\RemoteLibrary\obj\Debug\RemoteLibrary.pdb

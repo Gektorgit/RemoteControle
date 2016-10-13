@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="RemoteService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="NetTcpBinding_IRemoteService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <msb:BinaryEncoding xmlns:msb="http://schemas.microsoft.com/ws/06/2004/mspolicy/netbinary1">
+        </msb:BinaryEncoding>
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <msf:WindowsTransportSecurity xmlns:msf="http://schemas.microsoft.com/ws/2006/05/framing/policy">
+                  <msf:ProtectionLevel>EncryptAndSign</msf:ProtectionLevel>
+                </msf:WindowsTransportSecurity>
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256>
+                </sp:Basic256>
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict>
+                </sp:Strict>
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <wsaw:UsingAddressing>
+        </wsaw:UsingAddressing>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IRemoteService_Block_InputMessage">
+    <wsdl:part name="parameters" element="tns:Block" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_Block_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BlockResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_GetScreen_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetScreen" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_GetScreen_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetScreenResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_UnBlock_InputMessage">
+    <wsdl:part name="parameters" element="tns:UnBlock" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_UnBlock_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UnBlockResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_ShutDown_InputMessage">
+    <wsdl:part name="parameters" element="tns:ShutDown" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_ShutDown_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ShutDownResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_Reboot_InputMessage">
+    <wsdl:part name="parameters" element="tns:Reboot" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_Reboot_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RebootResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_CloseProcess_InputMessage">
+    <wsdl:part name="parameters" element="tns:CloseProcess" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_CloseProcess_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CloseProcessResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_KillProc_InputMessage">
+    <wsdl:part name="parameters" element="tns:KillProc" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_KillProc_OutputMessage">
+    <wsdl:part name="parameters" element="tns:KillProcResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_DisplayMessage_InputMessage">
+    <wsdl:part name="parameters" element="tns:DisplayMessage" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_DisplayMessage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DisplayMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_KillProcesses_InputMessage">
+    <wsdl:part name="parameters" element="tns:KillProcesses" />
+  </wsdl:message>
+  <wsdl:message name="IRemoteService_KillProcesses_OutputMessage">
+    <wsdl:part name="parameters" element="tns:KillProcessesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IRemoteService">
+    <wsdl:operation name="Block">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRemoteService/Block" message="tns:IRemoteService_Block_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRemoteService/BlockResponse" message="tns:IRemoteService_Block_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetScreen">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRemoteService/GetScreen" message="tns:IRemoteService_GetScreen_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRemoteService/GetScreenResponse" message="tns:IRemoteService_GetScreen_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UnBlock">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRemoteService/UnBlock" message="tns:IRemoteService_UnBlock_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRemoteService/UnBlockResponse" message="tns:IRemoteService_UnBlock_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShutDown">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRemoteService/ShutDown" message="tns:IRemoteService_ShutDown_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRemoteService/ShutDownResponse" message="tns:IRemoteService_ShutDown_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Reboot">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRemoteService/Reboot" message="tns:IRemoteService_Reboot_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRemoteService/RebootResponse" message="tns:IRemoteService_Reboot_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CloseProcess">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRemoteService/CloseProcess" message="tns:IRemoteService_CloseProcess_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRemoteService/CloseProcessResponse" message="tns:IRemoteService_CloseProcess_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="KillProc">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRemoteService/KillProc" message="tns:IRemoteService_KillProc_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRemoteService/KillProcResponse" message="tns:IRemoteService_KillProc_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DisplayMessage">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRemoteService/DisplayMessage" message="tns:IRemoteService_DisplayMessage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRemoteService/DisplayMessageResponse" message="tns:IRemoteService_DisplayMessage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="KillProcesses">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRemoteService/KillProcesses" message="tns:IRemoteService_KillProcesses_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRemoteService/KillProcessesResponse" message="tns:IRemoteService_KillProcesses_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="NetTcpBinding_IRemoteService" type="tns:IRemoteService">
+    <wsp:PolicyReference URI="#NetTcpBinding_IRemoteService_policy">
+    </wsp:PolicyReference>
+    <soap12:binding transport="http://schemas.microsoft.com/soap/tcp" />
+    <wsdl:operation name="Block">
+      <soap12:operation soapAction="http://tempuri.org/IRemoteService/Block" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetScreen">
+      <soap12:operation soapAction="http://tempuri.org/IRemoteService/GetScreen" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UnBlock">
+      <soap12:operation soapAction="http://tempuri.org/IRemoteService/UnBlock" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShutDown">
+      <soap12:operation soapAction="http://tempuri.org/IRemoteService/ShutDown" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Reboot">
+      <soap12:operation soapAction="http://tempuri.org/IRemoteService/Reboot" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CloseProcess">
+      <soap12:operation soapAction="http://tempuri.org/IRemoteService/CloseProcess" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KillProc">
+      <soap12:operation soapAction="http://tempuri.org/IRemoteService/KillProc" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DisplayMessage">
+      <soap12:operation soapAction="http://tempuri.org/IRemoteService/DisplayMessage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KillProcesses">
+      <soap12:operation soapAction="http://tempuri.org/IRemoteService/KillProcesses" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="RemoteService">
+    <wsdl:port name="NetTcpBinding_IRemoteService" binding="tns:NetTcpBinding_IRemoteService">
+      <soap12:address location="net.tcp://10.4.15.165:11000/RemoteControleHost/RemoteService/" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.tcp://10.4.15.165:11000/RemoteControleHost/RemoteService/</wsa10:Address>
+        <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
+          <Upn>root-pc\student</Upn>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
